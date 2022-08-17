@@ -1,5 +1,8 @@
 # Welcome to [Astro](https://astro.build)
 
+Curso introductorio de Astro con [Fazt Code](https://www.youtube.com/watch?v=CtKSWjDH_Wg)
+
+
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
